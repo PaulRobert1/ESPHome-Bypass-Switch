@@ -1,0 +1,1 @@
+ESP8266 bypass relay controlled through Home Assistant and a local web interface.
